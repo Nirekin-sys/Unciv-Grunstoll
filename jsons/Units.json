@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Casterknight",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 23,
+		"cost": 140,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+    "uniques": ["Can move after attacking","Rough terrain penalty"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]
