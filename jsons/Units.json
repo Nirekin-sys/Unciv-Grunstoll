@@ -2,8 +2,10 @@
 	{
 		"name": "Casterknight",
 		"unitType": "Melee",
+		"uniqueTo": "Grunstoll",
+		"replaces": "Longswordsman",
 		"movement": 3,
-		"strength": 23,
+		"strength": 21,
 		"cost": 140,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
