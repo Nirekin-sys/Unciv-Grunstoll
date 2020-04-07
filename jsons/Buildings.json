@@ -1,10 +1,10 @@
 [
 	{
 		"name": "Round Court",
-    "replaces": "Bank",
+		"replaces": "Bank",
 		"uniqueTo": "Grunstoll",
-		"culture": 2,
-    "happiness": 2,
+		"culture": 1,
+		"happiness": 2,
 		"hurryCostModifier": 15,
 		"requiredTech": "Banking"
 	}
