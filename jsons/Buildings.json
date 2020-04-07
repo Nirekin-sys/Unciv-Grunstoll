@@ -5,6 +5,7 @@
 		"uniqueTo": "Grunstoll",
 		"culture": 1,
 		"happiness": 2,
+		"cost": 230,
 		"hurryCostModifier": 15,
 		"requiredTech": "Banking"
 	}
